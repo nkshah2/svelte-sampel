@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+}
+
+.banner {
+	background: url('./lib/banner.jpg');
+	background-position: center;
+	background-size: cover;
+}
+.profile {
+	background: url('./lib/profile.png');
+	background-position: center;
+	background-size: cover;
+}
